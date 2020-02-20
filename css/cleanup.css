@@ -5,9 +5,6 @@
 #wall #tag-2 {
   display: none;
 }
-/*#wall #tag-3.slick.wicked {*/
-/*  display: none;*/
-/*}*/
-div[class="slick wicked"] {
+#wall #tag-3.slick.wicked {
   display: none;
 }
